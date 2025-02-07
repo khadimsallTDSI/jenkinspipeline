@@ -1,4 +1,3 @@
-# jenkinspipeline
 pipeline {
     agent any
 
